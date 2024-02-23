@@ -1,0 +1,30 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    border: 2px solid brown;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}
+
+.recipes-card {
+    border: 2px solid brown;
+    margin: auto 100px ;
+}
+
+.recipes-list {
+    list-style: none;
+    border: 2px solid brown;
+    margin: 20px;
+    padding: 5px;
+}
+
+li {
+    padding: 10px;
+    border: 2px solid brown;
+    margin: 10px;
+}
+
